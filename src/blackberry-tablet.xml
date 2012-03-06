@@ -1,0 +1,12 @@
+<qnx>
+  <initialWindow>
+    <systemChrome>none</systemChrome>
+    <transparent>false</transparent>
+  </initialWindow>
+  <publisher>Nils Berg</publisher>
+  <category>core.utils</category>
+  <icon>
+    <image>icon_small.png</image>
+  </icon>
+  <splashscreen>bb_splash.png</splashscreen>
+</qnx>
